@@ -3,8 +3,9 @@
 A full-stack team task management application with role-based access control. Users can create projects, invite team members as admins or members, create and assign tasks, and track progress on a Kanban board.
 
 ## Live Demo
-- **Frontend:** _(add Railway URL after deploy)_
-- **API:** _(add Railway URL after deploy)_
+- **Frontend:** https://ethara-task-manager-brown.vercel.app
+- **API:** https://ethara-task-manager-obeh.vercel.app
+- **API Health:** https://ethara-task-manager-obeh.vercel.app/api/health
 
 ## Features
 
