@@ -164,5 +164,3 @@ EtharaAI/
 └── README.md
 ```
 
-## Demo Video
-_(add link to 2–5 min video)_
